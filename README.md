@@ -1,5 +1,7 @@
 > # Introduction
 >
+> This project mainly revolves around Apache Sqoop and Apache Hive which are one of the most widely used tools in the industry.
+>
 > The dataset comprises a survey conducted in Empowered Action Group (EAG) states Uttarakhand, Rajasthan, Uttar Pradesh, Bihar, Jharkhand, Odisha, Chhattisgarh & Madhya Pradesh and Assam. These nine states, which account for about 48 percentage of the total population, 59 percentage of Births, 70 percentage of Infant Deaths, 75 percentage of Under 5 Deaths and 62 percentage of Maternal Deaths in the country, are the high focus States in view of their relatively higher fertility and mortality.
 >
 >  A representative sample of about 21 million population and 4.32 million households were covered which is spread across the rural and urban area of these 9 states.
